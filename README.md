@@ -10,12 +10,12 @@ Currently, two official plugins are available:
 # Dependencias necesarias
 - Este pryecto se creo a partir de la plantilla de react/vite y hace uso únicamente de Javascript
 ```bash 
-npm create vite@latest nombre-del-proyecto --template 
+ <NO_USAR> npm create vite@latest nombre-del-proyecto --template 
 npm install vite-plugin-pwa
 ``` 
 - Instalar los complementos para poder hacer un inicio de sesión con una cuenta de Google.
 ```bash
-
+npm install @react-oauth/google
 ```
 
 ```bash
